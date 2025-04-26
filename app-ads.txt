@@ -1,5 +1,6 @@
 google.com, pub-6954616371624364, DIRECT, f08c47fec0942fa0
 google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
+google.com, pub-6954616371624364, DIRECT, f08c47fec0942fa0
 
 startapp.com, 152690959, DIRECT
 start.io, 152690959, DIRECT
